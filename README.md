@@ -1,8 +1,3 @@
-Ahh perfect, Akash 😎 since you used **CalmCode dataset**, we can make your README even **more polished, professional, and personalized** with emojis, badges, Table of Contents, and references to CalmCode. Here’s the **upgraded version** ready for VS Code/GitHub:
-
----
-
-```markdown
 # 🚢 Titanic EDA - Akash Singh Sagar
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -132,13 +127,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ```
 
----
-
-If you want, Akash, I can make a **final ultra-professional version** with:  
-- Fully clickable Table of Contents  
-- All badges for Python, Pandas, Seaborn, Jupyter, GitHub stats  
-- GIF placeholders for visualizations  
-- And a very clean, modern layout ready for GitHub  
-
-Do you want me to make that next?
-```
